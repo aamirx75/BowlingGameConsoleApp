@@ -14,18 +14,13 @@ This is a C++ console application that implements a bowling game scoring system.
 Welcome to the Bowling Game!
 Enter the number of pins knocked down for each roll (0-10):
 
-Roll for Frame 1: 4
+Input Roll for Frame 1: 4
 
 Live Frame Scores:
-
 Frame 1: Roll1=4, Score=0
 
-Roll for Frame 1: 6
+Input Roll for Frame 1: 6
 
 Live Frame Scores:
-
 Frame 1: Roll1=4, Roll2=6, Score=10
-
 Frame 2: No rolls yet, Score=0
-
-Roll for Frame 2: 5
