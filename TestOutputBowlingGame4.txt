@@ -1,0 +1,187 @@
+Welcome to the Bowling Game!
+Enter the number of pins knocked down for each roll (0-10):
+Roll for Frame 1: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Score=0
+Roll for Frame 1: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: No rolls yet, Score=0
+Roll for Frame 2: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Score=0
+Roll for Frame 2: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: No rolls yet, Score=0
+Roll for Frame 3: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Score=0
+Roll for Frame 3: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: No rolls yet, Score=0
+Roll for Frame 4: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Score=0
+Roll for Frame 4: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: No rolls yet, Score=0
+Roll for Frame 5: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Score=0
+Roll for Frame 5: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: No rolls yet, Score=0
+Roll for Frame 6: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Score=0
+Roll for Frame 6: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Roll2=0, Score=0
+Frame 7: No rolls yet, Score=0
+Roll for Frame 7: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Roll2=0, Score=0
+Frame 7: Roll1=0, Score=0
+Roll for Frame 7: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Roll2=0, Score=0
+Frame 7: Roll1=0, Roll2=0, Score=0
+Frame 8: No rolls yet, Score=0
+Roll for Frame 8: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Roll2=0, Score=0
+Frame 7: Roll1=0, Roll2=0, Score=0
+Frame 8: Roll1=0, Score=0
+Roll for Frame 8: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Roll2=0, Score=0
+Frame 7: Roll1=0, Roll2=0, Score=0
+Frame 8: Roll1=0, Roll2=0, Score=0
+Frame 9: No rolls yet, Score=0
+Roll for Frame 9: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Roll2=0, Score=0
+Frame 7: Roll1=0, Roll2=0, Score=0
+Frame 8: Roll1=0, Roll2=0, Score=0
+Frame 9: Roll1=0, Score=0
+Roll for Frame 9: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Roll2=0, Score=0
+Frame 7: Roll1=0, Roll2=0, Score=0
+Frame 8: Roll1=0, Roll2=0, Score=0
+Frame 9: Roll1=0, Roll2=0, Score=0
+Frame 10: No rolls yet, Score=0
+Roll for Frame 10: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Roll2=0, Score=0
+Frame 7: Roll1=0, Roll2=0, Score=0
+Frame 8: Roll1=0, Roll2=0, Score=0
+Frame 9: Roll1=0, Roll2=0, Score=0
+Frame 10: Roll1=0, Score=0
+Roll for Frame 10: 0
+
+Live Frame Scores:
+Frame 1: Roll1=0, Roll2=0, Score=0
+Frame 2: Roll1=0, Roll2=0, Score=0
+Frame 3: Roll1=0, Roll2=0, Score=0
+Frame 4: Roll1=0, Roll2=0, Score=0
+Frame 5: Roll1=0, Roll2=0, Score=0
+Frame 6: Roll1=0, Roll2=0, Score=0
+Frame 7: Roll1=0, Roll2=0, Score=0
+Frame 8: Roll1=0, Roll2=0, Score=0
+Frame 9: Roll1=0, Roll2=0, Score=0
+Frame 10: Roll1=0, Roll2=0, Score=0
+
+Final Score: 0
+
+C:\Users\ADMIN\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe (process 10388) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

@@ -1,0 +1,130 @@
+Welcome to the Bowling Game!
+Enter the number of pins knocked down for each roll (0-10):
+Roll for Frame 1: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=10
+Frame 2: No rolls yet, Score=0
+Roll for Frame 2: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=10
+Frame 2: Roll1=10, Score=20
+Frame 3: No rolls yet, Score=0
+Roll for Frame 3: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=20
+Frame 3: Roll1=10, Score=30
+Frame 4: No rolls yet, Score=0
+Roll for Frame 4: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=60
+Frame 3: Roll1=10, Score=30
+Frame 4: Roll1=10, Score=40
+Frame 5: No rolls yet, Score=0
+Roll for Frame 5: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=60
+Frame 3: Roll1=10, Score=90
+Frame 4: Roll1=10, Score=40
+Frame 5: Roll1=10, Score=50
+Frame 6: No rolls yet, Score=0
+Roll for Frame 6: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=60
+Frame 3: Roll1=10, Score=90
+Frame 4: Roll1=10, Score=120
+Frame 5: Roll1=10, Score=50
+Frame 6: Roll1=10, Score=60
+Frame 7: No rolls yet, Score=0
+Roll for Frame 7: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=60
+Frame 3: Roll1=10, Score=90
+Frame 4: Roll1=10, Score=120
+Frame 5: Roll1=10, Score=150
+Frame 6: Roll1=10, Score=60
+Frame 7: Roll1=10, Score=70
+Frame 8: No rolls yet, Score=0
+Roll for Frame 8: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=60
+Frame 3: Roll1=10, Score=90
+Frame 4: Roll1=10, Score=120
+Frame 5: Roll1=10, Score=150
+Frame 6: Roll1=10, Score=180
+Frame 7: Roll1=10, Score=70
+Frame 8: Roll1=10, Score=80
+Frame 9: No rolls yet, Score=0
+Roll for Frame 9: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=60
+Frame 3: Roll1=10, Score=90
+Frame 4: Roll1=10, Score=120
+Frame 5: Roll1=10, Score=150
+Frame 6: Roll1=10, Score=180
+Frame 7: Roll1=10, Score=210
+Frame 8: Roll1=10, Score=80
+Frame 9: Roll1=10, Score=90
+Frame 10: No rolls yet, Score=0
+Roll for Frame 10: 10
+
+Live Frame Scores:
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=60
+Frame 3: Roll1=10, Score=90
+Frame 4: Roll1=10, Score=120
+Frame 5: Roll1=10, Score=150
+Frame 6: Roll1=10, Score=180
+Frame 7: Roll1=10, Score=210
+Frame 8: Roll1=10, Score=240
+Frame 9: Roll1=10, Score=90
+Frame 10: Roll1=10, Score=100
+Roll for Frame 10: 10
+
+Live Frame Scores:
+Frame 10: Waiting for bonus rolls...
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=60
+Frame 3: Roll1=10, Score=90
+Frame 4: Roll1=10, Score=120
+Frame 5: Roll1=10, Score=150
+Frame 6: Roll1=10, Score=180
+Frame 7: Roll1=10, Score=210
+Frame 8: Roll1=10, Score=240
+Frame 9: Roll1=10, Score=270
+Frame 10: Roll1=10, Roll2=10, Score=290
+Roll for Frame 10: 10
+
+Live Frame Scores:
+Frame 10: Bonus rolls complete.
+Frame 1: Roll1=10, Score=30
+Frame 2: Roll1=10, Score=60
+Frame 3: Roll1=10, Score=90
+Frame 4: Roll1=10, Score=120
+Frame 5: Roll1=10, Score=150
+Frame 6: Roll1=10, Score=180
+Frame 7: Roll1=10, Score=210
+Frame 8: Roll1=10, Score=240
+Frame 9: Roll1=10, Score=270
+Frame 10: Roll1=10, Roll2=10, Roll3=10, Score=300
+
+Final Score: 300
+
+C:\Users\ADMIN\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe (process 28268) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
