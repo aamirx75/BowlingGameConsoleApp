@@ -8,7 +8,7 @@ This is a C++ console application that implements a bowling game scoring system.
 3. Navigate to the project directory and compile the code:
     g++ -o BowlingGame BowlingGame.cpp
 4. Run the application:
-   ./BowlingGame
+    BowlingGame.exe
    
 ## Example Gameplay
 Welcome to the Bowling Game!
