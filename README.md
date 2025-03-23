@@ -23,19 +23,5 @@ Input Roll for Frame 1: 6
 
 Live Frame Scores:
 Frame 1: Roll1=4, Roll2=6, Score=10
+
 Frame 2: No rolls yet, Score=0
-
-Roll for Frame 2: 5
-
-Live Frame Scores:
-Frame 1: Roll1=4, Roll2=6, Score=15
-Frame 2: Roll1=5, Score=0
-
-Input Roll for Frame 2: 5
-
-Live Frame Scores:
-Frame 1: Roll1=4, Roll2=6, Score=15
-Frame 2: Roll1=5, Roll2=5, Score=25
-Frame 3: No rolls yet, Score=0
-
-Input Roll for Frame 3: 4
