@@ -4,10 +4,10 @@ This is a C++ console application that implements a bowling game scoring system.
 
 ## How to Run
 1. Clone the repository:
-    git clone https://github.com/<username>/BowlingGameConsoleApp.git
-2. Navigate to the project directory and compile the code:
+    git clone https://github.com/aamirx75/BowlingGameConsoleApp.git
+3. Navigate to the project directory and compile the code:
     g++ -o BowlingGame BowlingGame.cpp
-3. Run the application:
+4. Run the application:
    ./BowlingGame
    
 ## Example Gameplay
